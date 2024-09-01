@@ -6,9 +6,8 @@ const Schedule: React.FC = () => {
             <IonHeader>
                 <IonToolbar>
                     <IonButtons slot="start">
-                        <IonBackButton defaultHref='/' text="Go Back to Map"></IonBackButton>
+                        <IonBackButton defaultHref='/aps-tech-summit-2024/' text="Go Back to Map"></IonBackButton>
                     </IonButtons>
-                    {/* <IonTitle>Go Back to Map</IonTitle> */}
                 </IonToolbar>
             </IonHeader>
             <IonContent>
