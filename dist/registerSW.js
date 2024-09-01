@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/aps-tech-summit-2024/sw.js', { scope: '/aps-tech-summit-2024/' })})}
