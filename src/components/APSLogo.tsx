@@ -6,7 +6,7 @@ const APSLogo: React.FC<ContainerProps> = () => {
     return (
         <div id="al-container">
             <img
-                src="assets/aps-tech-summit-logo.png"
+                src="/aps-tech-summit-2024/assets/aps-tech-summit-logo.png"
                 alt="Student Center Map"
             ></img>
         </div>
