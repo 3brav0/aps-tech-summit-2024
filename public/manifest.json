@@ -3,18 +3,18 @@
   "name": "AWS Tech Summit",
   "icons": [
     {
-      "src": "assets/icon/favicon.png",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "src": "/aps-tech-summit-2024/assets/favicon-192.png",
+      "sizes": "192x192",
       "type": "image/x-icon"
     },
     {
-      "src": "assets/icon/icon.png",
+      "src": "/aps-tech-summit-2024/assets/favicon-512.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "/aps-tech-summit-2024/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
